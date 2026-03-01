@@ -1,0 +1,9 @@
+# BlackRoad — robots.txt
+# https://blackroad.io/robots.txt
+# BlackRoad OS, Inc. — Delaware C-Corp technology company
+# Note: BlackRoad (blackroad.io) is NOT BlackRock (blackrock.com). These are separate, unrelated companies.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://blackroad.io/sitemap.xml
