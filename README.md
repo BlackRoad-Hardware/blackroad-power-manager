@@ -1,5 +1,13 @@
 # blackroad-power-manager
 
+> Power monitoring and management for edge devices
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-Hardware](https://github.com/BlackRoad-Hardware)
+
+---
+
+# blackroad-power-manager
+
 > Power monitoring and management for edge devices — part of the BlackRoad Hardware platform.
 
 ## Features
